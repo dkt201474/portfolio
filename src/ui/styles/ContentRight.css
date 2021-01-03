@@ -1,0 +1,35 @@
+.right-quote-text,
+.right-quote-text-xs {
+  margin-top: 10em;
+  text-align: justify;
+  font-family: 'Lato', sans-serif;
+  color: rgb(80, 80, 80);
+  font-size: 1.1em;
+  margin-left: 1.2em;
+}
+.right-quote-text-xs {
+  margin-top: 2em;
+  margin-left: 1.2em;
+}
+
+.right-quote-link {
+  align-content: center;
+  text-align: right;
+  margin-left: 1.2em;
+}
+.right-quote-link,
+.right-quote-link-text {
+  font-family: 'Fjalla One';
+  text-transform: uppercase;
+}
+.right-quote-link-text {
+  color: rgb(80, 80, 80);
+  font-size: 1.3em;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+.right-quote-link-text:hover {
+  text-decoration: underline;
+}

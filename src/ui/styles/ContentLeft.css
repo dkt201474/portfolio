@@ -1,0 +1,33 @@
+.content-margin-top {
+  margin-top: 5em;
+}
+.content-margin-top-xs {
+  margin-top: 3em;
+}
+.quote-text-md,
+.quote-text-xs,
+.quote-author-xs,
+.quote-author-md {
+  font-family: "Fjalla One";
+  font-size: 2.8em;
+  margin: 0;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.quote-author-xs {
+  font-family: "Fjalla One";
+  font-size: 1em;
+  color: rgb(80, 80, 80);
+  text-align: right;
+}
+
+.quote-author-md {
+  font-size: 1.5em;
+  font-family: "Fjalla One";
+  color: rgb(80, 80, 80);
+  text-align: right;
+}
+.quote-text-xs {
+  font-size: 2em;
+}

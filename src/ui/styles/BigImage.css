@@ -1,0 +1,37 @@
+.big-image-xs,
+.big-image-sm,
+.big-image-md,
+.big-image-lg,
+.big-image-xl {
+  width: 5em;
+  margin: 0;
+  padding: 0;
+}
+
+.big-image-xs {
+  margin-bottom: 2em;
+
+}
+.big-image-sm {
+  width: 8em;
+  line-height: 1.18em;
+  margin-bottom: 1.3em;
+}
+
+.big-image-md {
+  width: 10em;
+  line-height: 1.18em;
+}
+
+.big-image-lg {
+  width: 9em;
+  line-height: 1.18em;
+  margin-left: -0.5em;
+}
+
+.big-image-xl {
+  width: 12em;
+  margin-top: -2.5em;
+  margin-bottom: 3.8em;
+  margin-left: -2.2em;
+}

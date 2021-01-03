@@ -1,0 +1,30 @@
+.big-letter-xs,
+.big-letter-sm,
+.big-letter-md,
+.big-letter-lg,
+.big-letter-xl {
+  font-family: "Fjalla One";
+  font-size: 14em;
+  margin: 0;
+  padding: 0;
+}
+
+.big-letter-sm {
+  font-size: 18em;
+  line-height: 1.18em;
+}
+
+.big-letter-md {
+  font-size: 24em;
+  line-height: 1.18em;
+}
+
+.big-letter-lg {
+  font-size: 24em;
+  line-height: 1.18em;
+}
+
+.big-letter-xl {
+  font-size: 28em;
+  line-height: 1.18em;
+}

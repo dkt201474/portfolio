@@ -1,0 +1,17 @@
+a:active, a:hover, a:visited {
+  text-decoration: underline;
+}
+
+.menu {
+  margin-top: 1.2em;
+  text-align: right;
+}
+.menu-text,
+.menu-text-last {
+  font-family: 'Fjalla One';
+  font-size: 1.2em;
+  margin-left: 0.85em;
+  text-transform: uppercase;
+  color: rgb(13, 13, 13);
+  text-decoration: none;
+}
