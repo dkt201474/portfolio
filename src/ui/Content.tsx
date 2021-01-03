@@ -57,7 +57,7 @@ const Content = ({ visible }: any) => (
         <ContentRight
           text="Thank you for taking your precious time to visit my website. Want to know more about me ?"
           linkText="VIEW RESUME"
-          linkUrl="https://github.com/dkt201474/resume"
+          linkUrl="https://raw.githubusercontent.com/dkt201474/portfolio/master/src/assets/Resume.pdf"
         />
       </Row>
     ) : null}
